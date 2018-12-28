@@ -1,0 +1,408 @@
+﻿OUTPUT FOR BEST CONFIG RAN 100 TIMES:
+total Specialists: 1 Total nurses: 1 Total exam rooms: 4 total cost: 26843.0
+total Specialists: 2 Total nurses: 1 Total exam rooms: 4 total cost: 28343.0
+total Specialists: 3 Total nurses: 1 Total exam rooms: 4 total cost: 29843.0
+total Specialists: 4 Total nurses: 1 Total exam rooms: 4 total cost: 31343.0
+total Specialists: 5 Total nurses: 1 Total exam rooms: 4 total cost: 32843.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 4 total cost: 28043.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 4 total cost: 29543.0
+total Specialists: 3 Total nurses: 2 Total exam rooms: 4 total cost: 31043.0
+total Specialists: 4 Total nurses: 2 Total exam rooms: 4 total cost: 32543.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 4 total cost: 29243.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 4 total cost: 30743.0
+total Specialists: 3 Total nurses: 3 Total exam rooms: 4 total cost: 32243.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 4 total cost: 30443.0
+total Specialists: 2 Total nurses: 4 Total exam rooms: 4 total cost: 31943.0
+total Specialists: 1 Total nurses: 5 Total exam rooms: 4 total cost: 31643.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 5 total cost: 25654.0
+total Specialists: 2 Total nurses: 1 Total exam rooms: 5 total cost: 27154.0
+total Specialists: 3 Total nurses: 1 Total exam rooms: 5 total cost: 28654.0
+total Specialists: 4 Total nurses: 1 Total exam rooms: 5 total cost: 30154.0
+total Specialists: 5 Total nurses: 1 Total exam rooms: 5 total cost: 31654.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 5 total cost: 26854.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 5 total cost: 28354.0
+total Specialists: 3 Total nurses: 2 Total exam rooms: 5 total cost: 29854.0
+total Specialists: 4 Total nurses: 2 Total exam rooms: 5 total cost: 31354.0
+total Specialists: 5 Total nurses: 2 Total exam rooms: 5 total cost: 32854.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 5 total cost: 28054.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 5 total cost: 29554.0
+total Specialists: 3 Total nurses: 3 Total exam rooms: 5 total cost: 31054.0
+total Specialists: 4 Total nurses: 3 Total exam rooms: 5 total cost: 32554.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 5 total cost: 29254.0
+total Specialists: 2 Total nurses: 4 Total exam rooms: 5 total cost: 30754.0
+total Specialists: 3 Total nurses: 4 Total exam rooms: 5 total cost: 32254.0
+total Specialists: 1 Total nurses: 5 Total exam rooms: 5 total cost: 30454.0
+total Specialists: 2 Total nurses: 5 Total exam rooms: 5 total cost: 31954.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 6 total cost: 25954.0
+total Specialists: 2 Total nurses: 1 Total exam rooms: 6 total cost: 27454.0
+total Specialists: 3 Total nurses: 1 Total exam rooms: 6 total cost: 28954.0
+total Specialists: 4 Total nurses: 1 Total exam rooms: 6 total cost: 30454.0
+total Specialists: 5 Total nurses: 1 Total exam rooms: 6 total cost: 31954.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 6 total cost: 27154.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 6 total cost: 28654.0
+total Specialists: 3 Total nurses: 2 Total exam rooms: 6 total cost: 30154.0
+total Specialists: 4 Total nurses: 2 Total exam rooms: 6 total cost: 31654.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 6 total cost: 28354.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 6 total cost: 29854.0
+total Specialists: 3 Total nurses: 3 Total exam rooms: 6 total cost: 31354.0
+total Specialists: 4 Total nurses: 3 Total exam rooms: 6 total cost: 32854.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 6 total cost: 29554.0
+total Specialists: 2 Total nurses: 4 Total exam rooms: 6 total cost: 31054.0
+total Specialists: 3 Total nurses: 4 Total exam rooms: 6 total cost: 32554.0
+total Specialists: 1 Total nurses: 5 Total exam rooms: 6 total cost: 30754.0
+total Specialists: 2 Total nurses: 5 Total exam rooms: 6 total cost: 32254.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 7 total cost: 26254.0
+total Specialists: 2 Total nurses: 1 Total exam rooms: 7 total cost: 27754.0
+total Specialists: 3 Total nurses: 1 Total exam rooms: 7 total cost: 29254.0
+total Specialists: 4 Total nurses: 1 Total exam rooms: 7 total cost: 30754.0
+total Specialists: 5 Total nurses: 1 Total exam rooms: 7 total cost: 32254.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 7 total cost: 27454.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 7 total cost: 28954.0
+total Specialists: 3 Total nurses: 2 Total exam rooms: 7 total cost: 30454.0
+total Specialists: 4 Total nurses: 2 Total exam rooms: 7 total cost: 31954.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 7 total cost: 28654.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 7 total cost: 30154.0
+total Specialists: 3 Total nurses: 3 Total exam rooms: 7 total cost: 31654.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 7 total cost: 29854.0
+total Specialists: 2 Total nurses: 4 Total exam rooms: 7 total cost: 31354.0
+total Specialists: 3 Total nurses: 4 Total exam rooms: 7 total cost: 32854.0
+total Specialists: 1 Total nurses: 5 Total exam rooms: 7 total cost: 31054.0
+total Specialists: 2 Total nurses: 5 Total exam rooms: 7 total cost: 32554.0
+*************************TOTAL********************************0.0
+BEST RUN TOTAL COST : 25654.0
+BEST CONFIG : # rooms: 5 #nurses: 1 #specs: 1
+
+OUTPUT FOR BESTCONFIG RAN 100 TIMES ROUND 2:
+total Specialists: 1 Total nurses: 1 Total exam rooms: 4 total cost: 31492.0
+total Specialists: 2 Total nurses: 1 Total exam rooms: 4 total cost: 32992.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 4 total cost: 32692.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 5 total cost: 31414.0
+total Specialists: 2 Total nurses: 1 Total exam rooms: 5 total cost: 32914.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 5 total cost: 32614.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 6 total cost: 31714.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 6 total cost: 32914.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 7 total cost: 32014.0
+*************************TOTAL********************************0.0
+BEST RUN TOTAL COST : 31414.0
+BEST CONFIG : # rooms: 5 #nurses: 1 #specs: 1
+
+OUTPUT FOR 4 ROOMS 1 NURSE 2 SPECIALISTS RAN 500 TIMES:
+Sample mean: 32496.0
+sampleStdDev: 4636.89828
+Approx. 95% Normal CI: [32089.55795,32902.44205]
+Approx. 95% T-Dist CI: [32089.55795,32902.44205]
+DESMO-J 95% Conf.Int.: [32088.57721,32903.42279]
+total cost of config avg : 32496.0 std DEV: 4636.89828
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 25.456 std DEV: 7.6596
+total leave after nurse mean : 6.998 std DEV: 3.37769
+total fully treated mean : 61.36 std DEV: 7.56895
+total patient response time mean : 28.19195 std DEV: 4.72443
+total nurse util mean : 0.57621 std DEV: 0.05859
+total spec util mean : 0.26011 std DEV: 0.08806
+total patients in waiting room mean : 0.94706 std DEV: 0.30764
+
+OUTPUT FOR 4 ROOMS 2 NURSE, 1 SPECIALIST RAN 500 TIMES:
+Sample mean: 28172.6
+sampleStdDev: 3752.66228
+Approx. 95% Normal CI: [27843.66465,28501.53535]
+Approx. 95% T-Dist CI: [27843.66465,28501.53535]
+DESMO-J 95% Conf.Int.: [27842.87094,28502.32906]
+total cost of config avg : 28172.6 std DEV: 3752.66228
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 13.294 std DEV: 4.35494
+total leave after nurse mean : 6.512 std DEV: 4.44673
+total fully treated mean : 73.986 std DEV: 6.969
+total patient response time mean : 34.3543 std DEV: 7.64994
+total nurse util mean : 0.33795 std DEV: 0.04436
+total spec util mean : 0.66316 std DEV: 0.10114
+total patients in waiting room mean : 0.11826 std DEV: 0.07332
+
+OUTPUT FOR 4 ROOMS 2 NURSE, 1 SPECIALIST RAN 500 TIMES round2:
+Sample mean: 28172.6
+sampleStdDev: 3752.66228
+Approx. 95% Normal CI: [27843.66465,28501.53535]
+Approx. 95% T-Dist CI: [27843.66465,28501.53535]
+DESMO-J 95% Conf.Int.: [27842.87094,28502.32906]
+total cost of config avg : 28172.6 std DEV: 3752.66228
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 13.294 std DEV: 4.35494
+total leave after nurse mean : 6.512 std DEV: 4.44673
+total fully treated mean : 73.986 std DEV: 6.969
+total patient response time mean : 34.3543 std DEV: 7.64994
+total nurse util mean : 0.33795 std DEV: 0.04436
+total spec util mean : 0.66316 std DEV: 0.10114
+total patients in waiting room mean : 0.11826 std DEV: 0.07332
+
+OUTPUT FOR 4 ROOMS 1 NURSE 2 SPEC RAN 500 TIMES:
+Sample mean: 32496.0
+sampleStdDev: 4636.89828
+Approx. 95% Normal CI: [32089.55795,32902.44205]
+Approx. 95% T-Dist CI: [32089.55795,32902.44205]
+DESMO-J 95% Conf.Int.: [32088.57721,32903.42279]
+total cost of config avg : 32496.0 std DEV: 4636.89828
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 25.456 std DEV: 7.6596
+total leave after nurse mean : 6.998 std DEV: 3.37769
+total fully treated mean : 61.36 std DEV: 7.56895
+total patient response time mean : 28.19195 std DEV: 4.72443
+total nurse util mean : 0.57621 std DEV: 0.05859
+total spec util mean : 0.26011 std DEV: 0.08806
+total patients in waiting room mean : 0.94706 std DEV: 0.30764
+
+OUTPUT FOR 4 ROOMS 1 NURSE 1 SPEC RAN 500:
+Sample mean: 31375.4
+sampleStdDev: 4637.99924
+Approx. 95% Normal CI: [30968.86144,31781.93856]
+Approx. 95% T-Dist CI: [30968.86144,31781.93856]
+DESMO-J 95% Conf.Int.: [30967.88048,31782.91952]
+total cost of config avg : 31375.4 std DEV: 4637.99924
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 25.456 std DEV: 7.6596
+total leave after nurse mean : 8.264 std DEV: 3.38189
+total fully treated mean : 60.086 std DEV: 6.97796
+total patient response time mean : 36.56704 std DEV: 7.97348
+total nurse util mean : 0.57621 std DEV: 0.05859
+total spec util mean : 0.4854 std DEV: 0.1446
+total patients in waiting room mean : 0.94706 std DEV: 0.30764
+
+OUTPUT FOR 4 ROOMS 1 NURSE 1 SPEC RAN 500 ROUND2:
+Sample mean: 31375.4
+sampleStdDev: 4637.99924
+Approx. 95% Normal CI: [30968.86144,31781.93856]
+Approx. 95% T-Dist CI: [30968.86144,31781.93856]
+DESMO-J 95% Conf.Int.: [30967.88048,31782.91952]
+total cost of config avg : 31375.4 std DEV: 4637.99924
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 25.456 std DEV: 7.6596
+total leave after nurse mean : 8.264 std DEV: 3.38189
+total fully treated mean : 60.086 std DEV: 6.97796
+total patient response time mean : 36.56704 std DEV: 7.97348
+total nurse util mean : 0.57621 std DEV: 0.05859
+total spec util mean : 0.4854 std DEV: 0.1446
+total patients in waiting room mean : 0.94706 std DEV: 0.30764
+
+OUTPUT FOR 5 ROOMS 1 NURSE 1 SPEC RAN 500:
+Sample mean: 31533.6
+sampleStdDev: 4629.23002
+Approx. 95% Normal CI: [31127.83010,31939.36990]
+Approx. 95% T-Dist CI: [31127.83010,31939.36990]
+DESMO-J 95% Conf.Int.: [31126.85099,31940.34901]
+total cost of config avg : 31533.6 std DEV: 4629.23002
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 25.456 std DEV: 7.6596
+total leave after nurse mean : 7.794 std DEV: 3.3229
+total fully treated mean : 60.552 std DEV: 7.11875
+total patient response time mean : 38.10473 std DEV: 9.46113
+total nurse util mean : 0.57621 std DEV: 0.05859
+total spec util mean : 0.49945 std DEV: 0.15265
+total patients in waiting room mean : 0.94706 std DEV: 0.30764
+
+OUTPUT FOR 5 ROOMS 1 NURSE 1 SPEC RAN 500 round 2:
+Sample mean: 31533.6
+sampleStdDev: 4629.23002
+Approx. 95% Normal CI: [31127.83010,31939.36990]
+Approx. 95% T-Dist CI: [31127.83010,31939.36990]
+DESMO-J 95% Conf.Int.: [31126.85099,31940.34901]
+total cost of config avg : 31533.6 std DEV: 4629.23002
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 25.456 std DEV: 7.6596
+total leave after nurse mean : 7.794 std DEV: 3.3229
+total fully treated mean : 60.552 std DEV: 7.11875
+total patient response time mean : 38.10473 std DEV: 9.46113
+total nurse util mean : 0.57621 std DEV: 0.05859
+total spec util mean : 0.49945 std DEV: 0.15265
+total patients in waiting room mean : 0.94706 std DEV: 0.30764
+
+OUTPUT FOR 6 ROOMS 1 NURSE 1 SPEC RAN 500:
+Sample mean: 31734.4
+sampleStdDev: 4629.82583
+Approx. 95% Normal CI: [31328.57787,32140.22213]
+Approx. 95% T-Dist CI: [31328.57787,32140.22213]
+DESMO-J 95% Conf.Int.: [31327.59864,32141.20136]
+total cost of config avg : 31734.4 std DEV: 4629.82583
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 25.456 std DEV: 7.6596
+total leave after nurse mean : 7.466 std DEV: 3.30737
+total fully treated mean : 60.866 std DEV: 7.24161
+total patient response time mean : 39.29256 std DEV: 10.89762
+total nurse util mean : 0.57621 std DEV: 0.05859
+total spec util mean : 0.50793 std DEV: 0.1591
+total patients in waiting room mean : 0.94706 std DEV: 0.30764
+
+OUTPUT FOR 7 ROOMS 1 NURSE 1 SPEC RAN 500:
+Sample mean: 31974.2
+sampleStdDev: 4635.7237
+Approx. 95% Normal CI: [31567.86090,32380.53910]
+Approx. 95% T-Dist CI: [31567.86090,32380.53910]
+DESMO-J 95% Conf.Int.: [31566.88042,32381.51958]
+total cost of config avg : 31974.2 std DEV: 4635.7237
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 25.456 std DEV: 7.6596
+total leave after nurse mean : 7.272 std DEV: 3.3341
+total fully treated mean : 61.046 std DEV: 7.34655
+total patient response time mean : 40.06512 std DEV: 12.08205
+total nurse util mean : 0.57621 std DEV: 0.05859
+total spec util mean : 0.51288 std DEV: 0.16352
+total patients in waiting room mean : 0.94706 std DEV: 0.30764
+
+output for best config 1 1 6
+total Specialists: 1 Total nurses: 1 Total exam rooms: 4 total cost: 31492.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 5 total cost: 31669.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 6 total cost: 31882.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 7 total cost: 32014.0
+*************************TOTAL********************************0.0
+BEST RUN TOTAL COST : 31492.0
+BEST CONFIG : # rooms: 4 #nurses: 1 #specs: 1
+
+****************************RESULTS AFTER FIX****************************
+BEST CONFIG RAN 100 TIMES:
+total Specialists: 1 Total nurses: 1 Total exam rooms: 4 total cost: 31492.0
+total Specialists: 2 Total nurses: 1 Total exam rooms: 4 total cost: 32629.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 4 total cost: 28043.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 4 total cost: 28199.0
+total Specialists: 3 Total nurses: 2 Total exam rooms: 4 total cost: 29564.0
+total Specialists: 4 Total nurses: 2 Total exam rooms: 4 total cost: 31058.0
+total Specialists: 5 Total nurses: 2 Total exam rooms: 4 total cost: 32558.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 4 total cost: 28705.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 4 total cost: 28664.0
+total Specialists: 3 Total nurses: 3 Total exam rooms: 4 total cost: 30065.0
+total Specialists: 4 Total nurses: 3 Total exam rooms: 4 total cost: 31556.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 4 total cost: 29919.0
+total Specialists: 2 Total nurses: 4 Total exam rooms: 4 total cost: 29867.0
+total Specialists: 3 Total nurses: 4 Total exam rooms: 4 total cost: 31241.0
+total Specialists: 4 Total nurses: 4 Total exam rooms: 4 total cost: 32732.0
+total Specialists: 1 Total nurses: 5 Total exam rooms: 4 total cost: 31094.0
+total Specialists: 2 Total nurses: 5 Total exam rooms: 4 total cost: 31009.0
+total Specialists: 3 Total nurses: 5 Total exam rooms: 4 total cost: 32386.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 5 total cost: 31669.0
+total Specialists: 2 Total nurses: 1 Total exam rooms: 5 total cost: 32920.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 5 total cost: 28061.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 5 total cost: 28442.0
+total Specialists: 3 Total nurses: 2 Total exam rooms: 5 total cost: 29861.0
+total Specialists: 4 Total nurses: 2 Total exam rooms: 5 total cost: 31358.0
+total Specialists: 5 Total nurses: 2 Total exam rooms: 5 total cost: 32858.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 5 total cost: 28739.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 5 total cost: 28901.0
+total Specialists: 3 Total nurses: 3 Total exam rooms: 5 total cost: 30359.0
+total Specialists: 4 Total nurses: 3 Total exam rooms: 5 total cost: 31856.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 5 total cost: 29936.0
+total Specialists: 2 Total nurses: 4 Total exam rooms: 5 total cost: 30101.0
+total Specialists: 3 Total nurses: 4 Total exam rooms: 5 total cost: 31535.0
+total Specialists: 1 Total nurses: 5 Total exam rooms: 5 total cost: 31105.0
+total Specialists: 2 Total nurses: 5 Total exam rooms: 5 total cost: 31246.0
+total Specialists: 3 Total nurses: 5 Total exam rooms: 5 total cost: 32683.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 6 total cost: 31882.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 6 total cost: 28136.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 6 total cost: 28706.0
+total Specialists: 3 Total nurses: 2 Total exam rooms: 6 total cost: 30158.0
+total Specialists: 4 Total nurses: 2 Total exam rooms: 6 total cost: 31658.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 6 total cost: 28804.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 6 total cost: 29177.0
+total Specialists: 3 Total nurses: 3 Total exam rooms: 6 total cost: 30656.0
+total Specialists: 4 Total nurses: 3 Total exam rooms: 6 total cost: 32156.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 6 total cost: 29992.0
+total Specialists: 2 Total nurses: 4 Total exam rooms: 6 total cost: 30365.0
+total Specialists: 3 Total nurses: 4 Total exam rooms: 6 total cost: 31832.0
+total Specialists: 1 Total nurses: 5 Total exam rooms: 6 total cost: 31152.0
+total Specialists: 2 Total nurses: 5 Total exam rooms: 6 total cost: 31510.0
+total Specialists: 3 Total nurses: 5 Total exam rooms: 6 total cost: 32980.0
+total Specialists: 1 Total nurses: 1 Total exam rooms: 7 total cost: 32128.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 7 total cost: 28225.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 7 total cost: 28979.0
+total Specialists: 3 Total nurses: 2 Total exam rooms: 7 total cost: 30458.0
+total Specialists: 4 Total nurses: 2 Total exam rooms: 7 total cost: 31958.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 7 total cost: 28895.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 7 total cost: 29462.0
+total Specialists: 3 Total nurses: 3 Total exam rooms: 7 total cost: 30956.0
+total Specialists: 4 Total nurses: 3 Total exam rooms: 7 total cost: 32456.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 7 total cost: 30077.0
+total Specialists: 2 Total nurses: 4 Total exam rooms: 7 total cost: 30641.0
+total Specialists: 3 Total nurses: 4 Total exam rooms: 7 total cost: 32132.0
+total Specialists: 1 Total nurses: 5 Total exam rooms: 7 total cost: 31240.0
+total Specialists: 2 Total nurses: 5 Total exam rooms: 7 total cost: 31789.0
+*************************TOTAL********************************0.0
+BEST RUN TOTAL COST : 28043.0
+BEST CONFIG : # rooms: 4 #nurses: 2 #specs: 1
+
+BEST CONFIG RUN 100 TIMES W < 30,000
+total Specialists: 1 Total nurses: 2 Total exam rooms: 4 total cost: 28043.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 4 total cost: 28199.0
+total Specialists: 3 Total nurses: 2 Total exam rooms: 4 total cost: 29564.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 4 total cost: 28705.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 4 total cost: 28664.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 4 total cost: 29919.0
+total Specialists: 2 Total nurses: 4 Total exam rooms: 4 total cost: 29867.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 5 total cost: 28061.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 5 total cost: 28442.0
+total Specialists: 3 Total nurses: 2 Total exam rooms: 5 total cost: 29861.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 5 total cost: 28739.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 5 total cost: 28901.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 5 total cost: 29936.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 6 total cost: 28136.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 6 total cost: 28706.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 6 total cost: 28804.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 6 total cost: 29177.0
+total Specialists: 1 Total nurses: 4 Total exam rooms: 6 total cost: 29992.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 7 total cost: 28225.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 7 total cost: 28979.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 7 total cost: 28895.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 7 total cost: 29462.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 8 total cost: 28348.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 8 total cost: 29267.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 8 total cost: 29001.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 8 total cost: 29759.0
+*************************TOTAL********************************0.0
+BEST RUN TOTAL COST : 28043.0
+BEST CONFIG : # rooms: 4 #nurses: 2 #specs: 1
+
+Output for 4 rooms 1 nurse 1 spec ran 500 times:
+Sample mean: 31375.4
+sampleStdDev: 4637.99924
+Approx. 95% Normal CI: [30968.86144,31781.93856]
+Approx. 95% T-Dist CI: [30968.86144,31781.93856]
+DESMO-J 95% Conf.Int.: [30967.88048,31782.91952]
+total cost of config avg : 31375.4 std DEV: 4637.99924
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 25.456 std DEV: 7.6596
+total leave after nurse mean : 8.264 std DEV: 3.38189
+total fully treated mean : 60.086 std DEV: 6.97796
+total patient response time mean : 36.56704 std DEV: 7.97348
+total nurse util mean : 0.57621 std DEV: 0.05859
+total spec util mean : 0.4854 std DEV: 0.1446
+total patients in waiting room mean : 0.94706 std DEV: 0.30764
+
+OUTPUT FOR 4 ROOMS 2 NURSE 1 SPEC RAN 500 TIMES
+Sample mean: 28172.6
+sampleStdDev: 3752.66228
+Approx. 95% Normal CI: [27843.66465,28501.53535]
+Approx. 95% T-Dist CI: [27843.66465,28501.53535]
+DESMO-J 95% Conf.Int.: [27842.87094,28502.32906]
+total cost of config avg : 28172.6 std DEV: 3752.66228
+total patients arrive mean : 93.814 std DEV: 9.69305
+total balk mean : 13.294 std DEV: 4.35494
+total leave after nurse mean : 6.512 std DEV: 4.44673
+total fully treated mean : 73.986 std DEV: 6.969
+total patient response time mean : 34.3543 std DEV: 7.64994
+total nurse util mean : 0.33795 std DEV: 0.04436
+total spec util mean : 0.66316 std DEV: 0.10114
+total patients in waiting room mean : 0.11826 std DEV: 0.07332
+
+OUTPUT FOR BEST CONFIG RAN 100 TIMES W < 29000
+total Specialists: 1 Total nurses: 2 Total exam rooms: 4 total cost: 28043.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 4 total cost: 28199.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 4 total cost: 28705.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 4 total cost: 28664.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 5 total cost: 28061.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 5 total cost: 28442.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 5 total cost: 28739.0
+total Specialists: 2 Total nurses: 3 Total exam rooms: 5 total cost: 28901.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 6 total cost: 28136.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 6 total cost: 28706.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 6 total cost: 28804.0
+total Specialists: 1 Total nurses: 2 Total exam rooms: 7 total cost: 28225.0
+total Specialists: 2 Total nurses: 2 Total exam rooms: 7 total cost: 28979.0
+total Specialists: 1 Total nurses: 3 Total exam rooms: 7 total cost: 28895.0
+*************************TOTAL********************************0.0
+BEST RUN TOTAL COST : 28043.0
+BEST CONFIG : # rooms: 4 #nurses: 2 #specs: 1
